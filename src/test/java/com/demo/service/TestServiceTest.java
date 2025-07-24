@@ -8,7 +8,7 @@ import org.mockito.runners.MockitoJUnitRunner;
 import static org.junit.Assert.assertEquals;
 
 @RunWith(MockitoJUnitRunner.class)
-public class cleaTestServiceTest {
+public class TestServiceTest {
     @InjectMocks
     TestService testService;
 
